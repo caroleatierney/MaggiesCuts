@@ -1,0 +1,35 @@
+* {
+  /* border: 1px gold solid; */
+  /* background-color: white; */
+  color: #C2AD4E;
+  font-family: 'Courgette', cursive;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-size: 35px;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: #C2AD4E;
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header {
+}
+
+.contact {
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}

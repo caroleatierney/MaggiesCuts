@@ -1,0 +1,23 @@
+{
+  "name": "maggiescuts",
+  "version": "1.0.0",
+  "description": "Maggies Website without responsive coding This is my first website designed with my hairdresser. It works for computer size screens but needs to be coded to be responsive to tablets and phones.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroleatierney/MaggiesCuts.git"
+  },
+  "author": "Carole Tierney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caroleatierney/MaggiesCuts/issues"
+  },
+  "homepage": "https://github.com/caroleatierney/MaggiesCuts#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
