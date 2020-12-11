@@ -3,10 +3,8 @@
 Maggies Website without responsive coding
 This is my first website designed with my hairdresser.
 It works for computer size screens but needs to be coded to be responsive to tablets and phones.
-
-## Maggie's Cuts
-
-# I met with my hairdresser to design a website for her business.
+  
+## I met with my hairdresser to design a website for her business.
 
 Using the internet for resources I developed a simple website using CSS, HTML and PHP.
 
