@@ -14,13 +14,18 @@ const PORT = process.env.PORT
 app.use( express.urlencoded( { extended:false } ) );
 app.use( express.static('public'))
 
+app.set('views', './views');
+app.set('view engine', 'ejs');
+
 // --routes
 app.get('/', (req, res) => {
-  res.render('index.ejs');
+  // res.render('index.ejs');
+  res.render('index');
 });
 
 app.get('/index', (req, res) => {
-  res.render('index.ejs');
+  // res.render('index.ejs');
+  res.render('index');
 });
 
 app.get('/services', (req, res) => {
